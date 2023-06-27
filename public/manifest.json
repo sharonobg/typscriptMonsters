@@ -19,7 +19,7 @@
       "purpose":"maskable"
     }
   ],
-  "start_url": "https://stellular-marshmallow-923532.netlify.app/",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#999999",
   "background_color": "#ffcccc"
